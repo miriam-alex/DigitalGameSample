@@ -41,8 +41,8 @@ MonoBehaviour:
   capitalOutput: 0
   capitalInputAmount: 0
   capitalOutputAmount: 0
-  completesGoals_consumption: 0
-  completesGoals_production: 0
+  completesGoals_consumption: 1
+  completesGoals_production: 1
   canBeWorked: 1
   workDuration: 1
   productionInterval: 5
