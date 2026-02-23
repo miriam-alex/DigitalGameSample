@@ -15,6 +15,6 @@ MonoBehaviour:
   resourceName: Gift
   icon: {fileID: 21300000, guid: 07b0cf5bb4264410bb8ecef0e2d806bf, type: 3}
   iconTint: {r: 1, g: 1, b: 1, a: 1}
-  resourcePrefab: {fileID: 0}
+  resourcePrefab: {fileID: 1116237097334872513, guid: d52647d7b8257418a8fb62d95b7c023a, type: 3}
   typeOfBehavior: 0
   lifespan: 2

@@ -10,30 +10,33 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 0c3dcfb3376eb4d02834bd63a7b90587, type: 3}
-  m_Name: Attention Station
+  m_Name: Gift Station
   m_EditorClassIdentifier: GameAssemblyLab.GameAssemblies::StationDataSO
-  stationName: Attention Station
-  stationGraphic: {fileID: 1134258272, guid: 23e286a47841d2543a37690ccadb367d, type: 3}
+  stationName: Gift Station
+  stationGraphic: {fileID: 859167496, guid: 23e286a47841d2543a37690ccadb367d, type: 3}
   stationSpriteTint: {r: 1, g: 1, b: 1, a: 1}
   stationScale: 0.5
   deadSprite: {fileID: 0}
   deadSpriteTint: {r: 1, g: 1, b: 1, a: 1}
-  stationPrefab: {fileID: 3143954068468085291, guid: 01ac7c1df60a14d9d8eb3b33cc4cbffe, type: 3}
+  stationPrefab: {fileID: 8051800564088959155, guid: f9d9be38bc88e4df48727a809df60951, type: 3}
   offsetY: 0.5
   uiScale: 0.5
   manualSliderPosition: 0
   sliderOffsetY: -0.46
-  consumeResource: 0
+  consumeResource: 1
   produceResource: 1
-  consumes: []
+  consumes:
+  - {fileID: 11400000, guid: 8e03951b98cdc4402bf41d100cae26b4, type: 2}
+  - {fileID: 11400000, guid: 8e03951b98cdc4402bf41d100cae26b4, type: 2}
+  - {fileID: 11400000, guid: 8e03951b98cdc4402bf41d100cae26b4, type: 2}
   produces:
-  - {fileID: 11400000, guid: 6deb1056a13234979a73dede2b086943, type: 2}
+  - {fileID: 11400000, guid: b3b91417e755e4f158690633c426737f, type: 2}
   whatToProduce: 0
   produceLootTable: {fileID: 0}
   spawnResourcePrefab: 1
-  useInputArea: 0
-  useOutputArea: 0
-  spawnRadius: 0.2
+  useInputArea: 1
+  useOutputArea: 1
+  spawnRadius: 1
   isSingleUse: 0
   destroyAfterSingleUse: 0
   capitalInput: 0
@@ -42,8 +45,8 @@ MonoBehaviour:
   capitalOutputAmount: 0
   completesGoals_consumption: 0
   completesGoals_production: 0
-  canBeWorked: 0
-  workDuration: 5
+  canBeWorked: 1
+  workDuration: 1
   productionInterval: 5
-  typeOfProduction: 1
+  typeOfProduction: 3
   typeOfConsumption: 1

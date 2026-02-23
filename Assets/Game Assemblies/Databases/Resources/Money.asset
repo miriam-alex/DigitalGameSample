@@ -15,6 +15,6 @@ MonoBehaviour:
   resourceName: Money
   icon: {fileID: 1494275483, guid: 4c26d41f8477d2846b721039e81a9827, type: 3}
   iconTint: {r: 1, g: 1, b: 1, a: 1}
-  resourcePrefab: {fileID: 0}
+  resourcePrefab: {fileID: 1116237097334872513, guid: 8caac73d3537940a5a85955bc1ac47fb, type: 3}
   typeOfBehavior: 0
   lifespan: 2

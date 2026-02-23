@@ -15,6 +15,6 @@ MonoBehaviour:
   resourceName: Attention
   icon: {fileID: -310194359, guid: 4c26d41f8477d2846b721039e81a9827, type: 3}
   iconTint: {r: 1, g: 1, b: 1, a: 1}
-  resourcePrefab: {fileID: 0}
+  resourcePrefab: {fileID: 1116237097334872513, guid: 9fcad1b1aa3f742bb9f83fe000729b44, type: 3}
   typeOfBehavior: 0
   lifespan: 2
