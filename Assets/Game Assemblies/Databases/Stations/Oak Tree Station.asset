@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c3dcfb3376eb4d02834bd63a7b90587, type: 3}
+  m_Name: Oak Tree Station
+  m_EditorClassIdentifier: GameAssemblyLab.GameAssemblies::StationDataSO
+  stationName: Oak Tree Station
+  stationGraphic: {fileID: 0}
+  stationSpriteTint: {r: 1, g: 1, b: 1, a: 1}
+  stationScale: 0.5
+  deadSprite: {fileID: 0}
+  deadSpriteTint: {r: 1, g: 1, b: 1, a: 1}
+  stationPrefab: {fileID: 144853530420352086, guid: 0cb0c4340e1b2d74bbfe861a6c94e945, type: 3}
+  offsetY: 0.5
+  uiScale: 0.5
+  manualSliderPosition: 0
+  sliderOffsetY: -0.46
+  useRecipes: 0
+  recipes: []
+  consumeResource: 1
+  produceResource: 1
+  consumes:
+  - {fileID: 11400000, guid: 7211b3edd31f6574b8bae7c51405f67a, type: 2}
+  produces:
+  - {fileID: 11400000, guid: 6deb1056a13234979a73dede2b086943, type: 2}
+  - {fileID: 11400000, guid: 7211b3edd31f6574b8bae7c51405f67a, type: 2}
+  whatToProduce: 0
+  produceLootTable: {fileID: 0}
+  spawnResourcePrefab: 1
+  useInputArea: 0
+  useOutputArea: 0
+  spawnRadius: 0.2
+  isSingleUse: 1
+  destroyAfterSingleUse: 1
+  capitalInput: 0
+  capitalOutput: 0
+  capitalInputAmount: 0
+  capitalOutputAmount: 0
+  completesGoals_consumption: 0
+  completesGoals_production: 0
+  canBeWorked: 0
+  workDuration: 2
+  productionInterval: 5
+  typeOfProduction: 1
+  typeOfConsumption: 1
