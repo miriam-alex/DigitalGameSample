@@ -10,6 +10,14 @@ public class Player : MonoBehaviour
     public int charisma;
     public int skillLevel;
     public int reputation;
+    
+    // variables to track score (based on number of plastic/wood chairs made by each player)
+    // applied to equation to calculate final score
+    public int plasticChairCount;
+    public int woodenChairCount;
+    public int onCameraTradeCount;
+    public int shadyBehaviorCount;
+    
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
