@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Get Painted Plastic Chair
   m_EditorClassIdentifier: GameAssemblyLab.GameAssemblies::ResourceGoalSO
   resourceType: {fileID: 11400000, guid: ccc8e35305c326e4fa76c5511b2eb184, type: 2}
-  requiredCount: 1
+  requiredCount: 3
   timeLimit: 600
-  rewardPoints: 1
-  penalty: 1
+  rewardPoints: 7
+  penalty: 0

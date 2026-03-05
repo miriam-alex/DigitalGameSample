@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Wood
   m_EditorClassIdentifier: GameAssemblyLab.GameAssemblies::Resource
   resourceName: Wood
-  icon: {fileID: -42871108, guid: 49577a8f92a058c468c23d3032455102, type: 3}
+  icon: {fileID: 21300000, guid: 45dbe97fa9bda3244b6877f880708d74, type: 3}
   iconTint: {r: 1, g: 1, b: 1, a: 1}
   resourcePrefab: {fileID: 1116237097334872513, guid: 9fcad1b1aa3f742bb9f83fe000729b44, type: 3}
   typeOfBehavior: 0

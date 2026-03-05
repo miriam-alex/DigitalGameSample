@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Oil
   m_EditorClassIdentifier: GameAssemblyLab.GameAssemblies::Resource
   resourceName: Oil
-  icon: {fileID: 998361848, guid: fa7cdf6daef6acf4a80a54f32cd5edb2, type: 3}
+  icon: {fileID: 21300000, guid: 761e9232190e5d44397dd9ddec3aeaba, type: 3}
   iconTint: {r: 1, g: 1, b: 1, a: 1}
   resourcePrefab: {fileID: 1116237097334872513, guid: 30f0a78f6b38cb8449c3da5f7c72ab98, type: 3}
   typeOfBehavior: 0

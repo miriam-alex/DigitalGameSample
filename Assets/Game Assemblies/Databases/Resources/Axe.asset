@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Axe
   m_EditorClassIdentifier: GameAssemblyLab.GameAssemblies::Resource
   resourceName: Axe
-  icon: {fileID: -1537604265, guid: fa7cdf6daef6acf4a80a54f32cd5edb2, type: 3}
+  icon: {fileID: 21300000, guid: 52054646b11080b429ec8b30cb958bcf, type: 3}
   iconTint: {r: 1, g: 1, b: 1, a: 1}
   resourcePrefab: {fileID: 1116237097334872513, guid: 620d037c94d998d44a5018188b8c2076, type: 3}
   typeOfBehavior: 0

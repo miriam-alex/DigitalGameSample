@@ -15,11 +15,22 @@ MonoBehaviour:
   levelName: Round 1
   levelType: 0
   sequentialGoals:
+  - {fileID: 11400000, guid: 401c50dcdb6468e4490f3983e03a3077, type: 2}
+  - {fileID: 11400000, guid: c5c6abb5e03b85340a08a2fd37075770, type: 2}
   - {fileID: 11400000, guid: 067ac21f53c6ea64395d014fcb554a86, type: 2}
+  - {fileID: 11400000, guid: 736d3fa8bb1f91040bb99aa929423626, type: 2}
+  - {fileID: 11400000, guid: fbefecd6f17ef3949812a7e98137f5a5, type: 2}
+  - {fileID: 11400000, guid: 6c44f37b36a6bb0408b4ce85590b9c66, type: 2}
   - {fileID: 11400000, guid: 12509f83be65a29419cb53eeba26c041, type: 2}
+  - {fileID: 11400000, guid: 9c0386ca67095d248aeb3b1ef96442a5, type: 2}
+  - {fileID: 11400000, guid: 2a3c0a6a27fbf5747889d4f9d414a6aa, type: 2}
+  - {fileID: 11400000, guid: c04fc8137c5c6a8448582e1ca1c08263, type: 2}
+  - {fileID: 11400000, guid: f8563a506d511de4f9643cce9a36da1e, type: 2}
+  - {fileID: 11400000, guid: 192d1f52319cbeb46b2c8708d0cb369b, type: 2}
+  - {fileID: 11400000, guid: 192d1f52319cbeb46b2c8708d0cb369b, type: 2}
   randomGoalPool: []
   goalInterval: 30
-  maxActiveGoals: 3
+  maxActiveGoals: 13
   initialDelay: 5
   endLevelWhenComplete: 1
   timeToComplete: 600
